@@ -1,1 +1,18 @@
-
+{
+    "id": 60197839,
+    "name": "Precipitance",
+    "author": "Extravagon",
+    "creators": ["Extravagon"],
+    "verifier": "Extravagon",
+    "verification": "https://www.youtube.com/watch?v=y7KEH7PFjws",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Seb",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
