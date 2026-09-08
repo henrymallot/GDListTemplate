@@ -1,1 +1,18 @@
-
+{
+    "id": 66851981,
+    "name": "Redemption",
+    "author": "Zestwagon",
+    "creators": ["Zestwagon"],
+    "verifier": "Zestwagon",
+    "verification": "https://www.youtube.com/watch?v=fh40CXiI538",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Seb",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
