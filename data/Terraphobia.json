@@ -1,1 +1,18 @@
-
+{
+    "id": 110711884,
+    "name": "Terraphobia",
+    "author": "Jakalope",
+    "creators": ["Jakalope"],
+    "verifier": "Unknown",
+    "verification": "https://www.youtube.com/watch?v=R-lqRfqLjUs&list=RDR-lqRfqLjUs&start_radio=1",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Seb",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
