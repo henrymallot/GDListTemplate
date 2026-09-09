@@ -1,1 +1,18 @@
-
+{
+    "id": 7054561,
+    "name": "Poltergeist",
+    "author": "Andromeda GMD",
+    "creators": ["Andromeda GMD"],
+    "verifier": "Hacked",
+    "verification": "https://www.youtube.com/watch?v=F7BMhZp1KVw&list=RDF7BMhZp1KVw&start_radio=1",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Seb",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
