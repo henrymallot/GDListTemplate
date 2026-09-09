@@ -1,1 +1,18 @@
-
+{
+    "id": 4706930,
+    "name": "Supersonic",
+    "author": "ZenthicAlpha",
+    "creators": ["Multiple Creators"],
+    "verifier": "Unknown",
+    "verification": "https://www.youtube.com/watch?v=stwou0K2pHY&list=RDstwou0K2pHY&start_radio=1",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Seb",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
