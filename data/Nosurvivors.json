@@ -1,0 +1,18 @@
+{
+    "id": 132458573,
+    "name": "No Survivors",
+    "author": "Fawxu",
+    "creators": ["Fawxu"],
+    "verifier": "Fawxu",
+    "verification": "https://www.youtube.com/watch?v=-CCtQNsjjqA",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Seb",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
