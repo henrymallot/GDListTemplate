@@ -1,1 +1,18 @@
-
+{
+    "id": 104895221,
+    "name": "Supernova",
+    "author": "Royen",
+    "creators": ["royen and others"],
+    "verifier": "Rin",
+    "verification": "https://www.youtube.com/watch?v=Co74MD2V5Tk",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Seb",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
